@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="500" height="500" viewBox="0 0 500 500">
+  <defs>
+    <clipPath id="clip-Artboard_10">
+      <rect width="500" height="500"/>
+    </clipPath>
+  </defs>
+  <g id="Artboard_10" data-name="Artboard – 10" clip-path="url(#clip-Artboard_10)">
+    <rect width="500" height="500" fill="#fff"/>
+    <g id="Group_138" data-name="Group 138">
+      <g id="Rectangle_99" data-name="Rectangle 99" fill="#d11f1f" stroke="#707070" stroke-width="1" opacity="0.121">
+        <rect width="500" height="500" stroke="none"/>
+        <rect x="0.5" y="0.5" width="499" height="499" fill="none"/>
+      </g>
+    </g>
+    <path id="Path_90" data-name="Path 90" d="M5811.689,7856.821c-49.093,8.177-46.692,66.656-34.415,90.8s49.284,70.42,105.066,75.154,101.88-34.2,91.185-91.45-49.082-33.182-78.3-34.5S5860.782,7848.644,5811.689,7856.821Z" transform="translate(9954.473 -996.411) rotate(120)" fill="#07080f"/>
+    <path id="Path_92" data-name="Path 92" d="M5836.6,7857.721c-78.279,15.855-74.451,129.253-54.875,176.062s78.583,136.553,167.527,145.732,162.446-66.312,145.393-177.331-78.26-64.344-124.856-66.9S5914.875,7841.864,5836.6,7857.721Z" transform="translate(-9578.445 -1144.019) rotate(-45)" fill="#07080f"/>
+  </g>
+</svg>
