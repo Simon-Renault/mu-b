@@ -42,7 +42,7 @@ export default {
         },
         logoCss(){
 
-            let rand = Math.floor(Math.random() * 2 + 1);  // random int from 1 to 4
+            let rand = Math.floor(Math.random() * 3 + 1);  // random int from 1 to 4
 
             return {
                 'background-image' : `url('/img/kanji${rand}.png')` ,
